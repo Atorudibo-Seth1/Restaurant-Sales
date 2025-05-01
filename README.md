@@ -13,13 +13,13 @@
 
 
 ## Project Background
-Red Oven is a thriving restaurant chain specialising in a wide range of gourmet pizzas. With high daily order volumes from in-house customers, the restaurant generates extensive sales and operational data that offers valuable opportunities for performance optimization.
+Red Oven is a thriving restaurant chain specialising in a wide range of gourmet pizzas. With high daily order volumes from customers, the restaurant generates extensive sales and operational data that offers valuable opportunities for performance optimization.
 
 This project leverages sales and operations data to deliver actionable insights that can drive performance, improve customer experience, and guide strategic decisions. The analysis focuses on optimizing product offerings, understanding customer behavior, and enhancing operational efficiency.
 
 - Sales Trends Analysis: Evaluation of revenue, total quantity sold, and order volumes over time. Monthly and daily patterns were analyzed to pinpoint peak seasons and optimal sales periods.
 - Product-Level Performance: Review of pizza offerings to identify high-performing products based on revenue, quantity, and average order value.
-- Category Contribution: Insight into the revenue impact of major pizza categories — Veggie, Chicken, Supreme, and Classic — helping guide inventory planning and promotional focus.
+- Category Contribution: Insight into the revenue impact of major pizza categories - Veggie, Chicken, Supreme, and Classic - helping guide inventory planning and promotional focus.
 - Temporal Dynamics: Analysis of order behavior by hour and day of the week, supporting smarter resource allocation and targeted marketing during peak demand windows.
 
 An interactive Tableau dashboard can found and downloaded here.
@@ -35,6 +35,30 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## Executive Summary
 ### Overview of Findings
+After generating a total revenue of **$817.9K** across **21,350** orders and **49,574** units sold, sales activity showed consistent monthly distribution with a noticeable peak in **July**. This suggests a potential seasonal factor or promotional event worth exploring.
+
+Order patterns indicate mid-week days, particularly Wednesday - experience the highest order volumes, while Friday sees a slight dip. Additionally, most customer activity is concentrated between **12 PM** and **2 PM** and again between **5 PM** and **7 PM**, aligning with lunch and dinner hours.
+
+Large-sized pizzas drive the highest revenue, with Veggie, Chicken, and Supreme variants leading, highlighting a clear customer preference for larger portions across top-selling flavors.
+
+Chicken-based pizzas dominate unit sales and revenue, with three variants each surpassing 2,300 orders. While average order values (AOV) remain steady across most offerings, niche pizzas like The Greek and Mexicana command higher AOVs despite lower sales volumes.
+
+These trends suggest strong appeal for familiar, large-format options, while higher-priced niche items may benefit from targeted promotions to boost visibility and lift order volumes.
+
+Below is a snippet of the Tableau dashboard and more sinppets are made available throughout the report. The complete interactive dashboard can be found here.
+
+### Sales Trend
+- **Total revenue reached $817.9K from 21,350 orders and 49,574 units sold**. July recorded the highest performance across all three KPIs - revenue, quantity sold, and order count - 
+ indicating a temporary surge in demand. Other months maintained a relatively steady performance with minimal variation, suggesting consistent baseline demand.
+- **Weekly and Hourly Demand Patterns** - Midweek days - particularly Wednesday - consistently recorded the highest order volumes, while Friday showed the lowest, pointing to an opportunity to improve performance heading into the weekend.
+- **Hourly trends reveal peak ordering activity between 12 PM and 2 PM, followed by another rise between 5 PM and 7 PM**. These align with typical mealtimes and reinforce the importance of operational efficiency during these high-volume windows.
+
+These patterns can inform targeted timing for promotions, staffing, and inventory preparation.
+
+### Product Performance
+- Pizza sales are widely distributed across products, with no single item dominating revenue. The top 5 pizzas by revenue - Thai Chicken, Barbecue Chicken, California Chicken, Classic Deluxe, and Spicy Italian—generated a combined $200.6K, representing 24.5% of the total $817.9K revenue. This highlights a diverse customer preference rather than reliance on a few bestsellers.
+- The Pepperoni and Big Meat Pizzas achieved high sales volume - over 2,400 and 1,900 units respectively but had the lowest AOVs at $13.24 and $12.68. These items generate revenue primarily through volume and could benefit from strategic pricing adjustments.
+- Despite having the highest AOV at $24.14, the Brie Carre Pizza contributed only $11.6K (1.4%) in revenue, making it the lowest-earning item indicating limited volume uptake even at premium pricing.
 
 ### Exploratory Questions
 ---

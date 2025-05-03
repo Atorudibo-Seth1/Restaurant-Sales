@@ -39,9 +39,9 @@ After generating a total revenue of **$817.9K** across **21,350** orders and **4
 
 Order patterns indicate mid-week days, particularly Wednesday - experience the highest order volumes, while Friday sees a slight dip. Additionally, most customer activity is concentrated between **12 PM** and **2 PM** and again between **5 PM** and **7 PM**, aligning with lunch and dinner hours.
 
-Large-sized pizzas drive the highest revenue, with Veggie, Chicken, and Supreme variants leading, highlighting a clear customer preference for larger portions across top-selling flavors.
+Large-sized pizzas drive the highest revenue amongst all categories. Classic leads all categories in revenue, quantity and order count
 
-Chicken-based pizzas dominate unit sales and revenue, with three variants each surpassing 2,300 orders. While average order values (AOV) remain steady across most offerings, niche pizzas like The Greek and Mexicana command higher AOVs despite lower sales volumes.
+While average order values (AOV) remain steady across most offerings, niche pizzas like The Greek command higher AOVs while maintaining a sizable revenue share.
 
 These trends suggest strong appeal for familiar, large-format options, while higher-priced niche items may benefit from targeted promotions to boost visibility and lift order volumes.
 

@@ -5,10 +5,6 @@
 - [Project Background](#project-background)
 - [Data Structure](#data-structure)
 - [Executive Summary](#executive-summary)
-- [Exploratory Questions](#exploratory-questions)
-- [Data Sources](#data-sources)
-- [Data Analysis](#data-analysis)
-- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 
@@ -60,47 +56,13 @@ These patterns can inform targeted timing for promotions, staffing, and inventor
 - The Pepperoni and Big Meat Pizzas achieved high sales volume - over 2,400 and 1,900 units respectively but had the lowest AOVs at $13.24 and $12.68. These items generate revenue primarily through volume and could benefit from strategic pricing adjustments.
 - Despite having the highest AOV at $24.14, the Brie Carre Pizza contributed only $11.6K (1.4%) in revenue, making it the lowest-earning item indicating limited volume uptake even at premium pricing.
 
-### Exploratory Questions
----
-Here are some questions that served as a guide for insights:
-1. What is the overall customer satisfaction rate?
-2. How many orders are still backlogged?
-3. What are the various performances in terms of logistics i.e Drivers and vehicular performances?
-4. What is the order completion rate?
-5. How long do deliveries take on average as well as delay averages and impact?
-
-### Skills Demonstrated
----
-- Using Office Scripts for KPI automation and ad-hoc reporting.
-- Creating interactive dashboards
-- Using Pivot Tables, slicers etc.
-- Critical Thinking and Problem Solving
-
-### Data Sources
----
 The data is contained in the [DeliveryOptimisation.xlsx](DeliveryOptimisation.xlsx) file along with the dashboard.
-
-
-## Data Analysis
 
 <p align="center">
   <img src="OptimisationDashboard.png">
 </p>
-
-As seen in the above image, is the interactive dashboard. It contains several KPIs that serve as indicators for important metrics. It also contains slicers that allow the charts to filtered accordingly and reflect the data of the selected button.
-
-### Findings
----
-- The average delivery time for an order is about 152 minutes while the average delay incured for an order is 14.5 minutes.
-- The current overall customer satisfaction rate is about 32% which is pretty low and below average.
-- Bike C is the vehicle incurring the highest delays on average.
-- About 49% of orders have been completed at the moment.
-- There are currently more orders in backlog than orders that have been completed.
-- Route 3 is associated with the highest delays and Route 5 is the lowest.
-- Orders with expedited rules are associated with the highest average delays.
   
-### Recommendations
----
+## Recommendations
 Based on some of my findings, here are some recommendations I would offer:
 
 1. **Address Delays Across Routes and Vehicles:**
